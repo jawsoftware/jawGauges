@@ -6,7 +6,7 @@ Code will need heavy cleaning and optimizations while waiting for an 1.0 release
 
 Current features/changes:
 
-v. 0.8 2019-07-30
+**v. 0.8 2019-07-30**
 Gauges currently available:
 - Quarter circle (top left/top right/bottom right/bottom left
 - Half circle (left/right/top/bottom
