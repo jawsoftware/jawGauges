@@ -1,0 +1,4 @@
+.svgCircle {border: 1px solid lightgray; width: 200px; height: 200px; }
+.svgQuarter { width: 100px; height: 100px; border: 1px solid lightgray; }
+.svgHalfHor { width: 200px; height: 100px; border: 1px solid lightgray; }
+.svgHalfVer { width: 100px; height: 200px; border: 1px solid lightgray; }
