@@ -1,6 +1,8 @@
 # jawGauges
 No-dependencies SVG gauges
 
+![jawGauges](https://github.com/jawsoftware/jawGauges/blob/master/gauges.jpg)
+
 A work-in-progress small library for creating resolution independent gauges.
 Code will need heavy cleaning and optimizations while waiting for an 1.0 release
 
